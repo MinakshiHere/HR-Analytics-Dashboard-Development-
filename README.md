@@ -8,4 +8,4 @@ Developed an HR Analytics Dashboard by cleaning and transforming MySQL data, int
 
 • Designed a user-friendly interface for HR insights, using advanced filter functions and bookmark. 
 
-Access Dashboard here Power BI Service [Link Text](https://shorturl.at/0U8Mw)
+Access Dashboard here Power BI Service [HR Analytics Dashboard](https://shorturl.at/0U8Mw)
