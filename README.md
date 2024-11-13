@@ -5,4 +5,5 @@ Developed an HR Analytics Dashboard by cleaning and transforming MySQL data, int
 • Cleaned and transformed data in MySQL for accurate analysis, and connected the database with power BI. 
 
 • Visualized employee metrics (age, tenure, location, job title). 
+
 • Designed a user-friendly interface for HR insights, using advanced filter functions and bookmark. 
